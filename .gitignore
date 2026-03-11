@@ -1,0 +1,26 @@
+# API 密钥，绝对不能上传
+.env
+
+# 虚拟环境
+.venv/
+
+# 生成的视频和截帧（体积大，不属于代码）
+outputs/
+
+# 会话状态（包含本地路径，对他人无意义）
+storyboard.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude Code 本地配置
+.claude/
+CLAUDE.md
+
+# 研究文档（README 已覆盖核心内容）
+docs/
