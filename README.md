@@ -1,4 +1,4 @@
-# Hailuo AI Video Prompt Agent
+# AI Video Agent Workflow
 
 [中文](README_CN.md)
 
