@@ -1,4 +1,4 @@
-# Hailuo AI 视频提示词智能体
+# AI Video Agent Workflow
 
 [English](README.md)
 
